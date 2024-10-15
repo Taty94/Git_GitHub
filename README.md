@@ -285,4 +285,6 @@ Use this space to list resources you find helpful and would like to give credit 
 Seccion creada para saber que cursos estamos siguiendo
 *Curso Creado por CAPDESIS.
 *Alumno Tatiana Maybeth Montenegro
-
+*Incluye Solucion de Dudas.
+*Con Ejemplos reales y trabajo en Equipo (Con ejemplos)
+*Para todo Tipo de Programador
